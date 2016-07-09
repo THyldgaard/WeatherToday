@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '113910ED2CB44B179A33A87BB17E0886'
-               BlueprintName = 'Pods-Weather Today'
+               BlueprintIdentifier = '79C040AFDDCE1BCBF6D8B5EB0B85887F'
+               BlueprintName = 'Alamofire'
                ReferencedContainer = 'container:Pods.xcodeproj'
-               BuildableName = 'Pods-Weather Today.framework'>
+               BuildableName = 'Alamofire.framework'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
